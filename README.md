@@ -1,7 +1,7 @@
 ethz_piksi_ros
 ======
 
-This repository contains (python) ROS drivers, tools, launch files, and wikis about how to use Piksi Real Time Kinematic (RTK) GPS device in ROS. There are two different driver versions: one for Piksi V2 and one for Piksi Multi. 
+This repository contains (python) ROS drivers, tools, launch files, and wikis about how to use Piksi Real Time Kinematic (RTK) GPS device in ROS. There are two different driver versions: one for Piksi V2 and one for Piksi Multi.
 
 **Check the [Wiki](https://github.com/ethz-asl/ethz_piksi_ros/wiki) for instructions on how to get started with Piksi RTK GPS receiver.**
 
@@ -29,7 +29,7 @@ RTK fix obtained in average in 3 minutes.
  - [Install Piksi Multi ROS Driver](https://github.com/ethz-asl/ethz_piksi_ros/tree/master/piksi_multi_rtk_ros#installation-and-configuration).
  - [Configure Your Piksi Multi](https://github.com/ethz-asl/ethz_piksi_ros/wiki/Installing-and-Configuring-Your-Piksi).
  - [Example Launch Files](https://github.com/ethz-asl/ethz_piksi_ros/tree/master/piksi_multi_rtk_ros/launch).
-  
+
 ### Piksi V2 (Discontinued)
 RTK fix obtained in average in 10 minutes.
  - [Install Piksi V2 ROS Driver](https://github.com/ethz-asl/ethz_piksi_ros/tree/master/piksi_v2_rtk_ros#installation-and-configuration).
@@ -39,10 +39,6 @@ RTK fix obtained in average in 10 minutes.
 License
 -------
 The source code is released under a [BSD 3-Clause license](https://github.com/ethz-asl/ethz_piksi_ros/blob/master/LICENSE).
-
-Build Status
--------
-[![Build Status](https://ci.leggedrobotics.com/buildStatus/icon?job=github_ethz-asl/ethz_piksi_ros/master)](https://ci.leggedrobotics.com/job/github_ethz-asl/job/ethz_piksi_ros/job/master/)
 
 Credits
 -------
