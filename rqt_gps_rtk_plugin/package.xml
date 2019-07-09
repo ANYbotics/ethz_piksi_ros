@@ -14,6 +14,9 @@
   <depend>piksi_rtk_msgs</depend>
   <depend>sensor_msgs</depend>
 
+  <depend>libqt5-gui</depend>
+  <depend>libqt5-widgets</depend>
+
   <!-- The export tag contains other, unspecified, tags -->
   <export>
     <architecture_independent/>
