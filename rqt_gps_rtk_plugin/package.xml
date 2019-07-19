@@ -17,6 +17,8 @@
   <depend>libqt5-gui</depend>
   <depend>libqt5-widgets</depend>
 
+  <build_export_depend>qtbase5-dev</build_export_depend>
+
   <!-- The export tag contains other, unspecified, tags -->
   <export>
     <architecture_independent/>
