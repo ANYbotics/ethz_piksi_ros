@@ -2,12 +2,11 @@
 <package format="2">
   <name>piksi_rtk_kml</name>
   <version>1.10.0</version>
-  <description>
-    ROS node to write KML file from Piksi messages.
-  </description>
+  <description>ROS node to write KML file from Piksi messages.</description>
 
   <author email="marcot@ethz.ch">Marco Tranzatto</author>
-  <maintainer email="marcot@ethz.ch">Marco Tranzatto</maintainer>
+  <maintainer email="ynava@anybotics.com">Yoshua Nava</maintainer>
+  <maintainer email="mwulf@anybotics.com">Maximilian Wulf</maintainer>
 
   <license>BSD</license>
 

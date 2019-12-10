@@ -4,7 +4,8 @@
   <version>1.10.0</version>
   <description>Meta-package for the ethz_piksi_ros repository.</description>
 
-  <maintainer email="marcot@ethz.ch">Marco Tranzatto</maintainer>
+  <maintainer email="ynava@anybotics.com">Yoshua Nava</maintainer>
+  <maintainer email="mwulf@anybotics.com">Maximilian Wulf</maintainer>
   <author email="marcot@ethz.ch">Marco Tranzatto</author>
   <author email="kaiho@ethz.ch">Kai Holtmann</author>
 

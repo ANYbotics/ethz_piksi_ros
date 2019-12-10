@@ -4,7 +4,9 @@
   <version>1.10.0</version>
   <description>The rqt_gps_rtk_plugin package</description>
 
-  <maintainer email="kaiho@ethz.ch">Kai Holtmann</maintainer>
+  <author email="marcot@ethz.ch">Marco Tranzatto</author>
+  <maintainer email="ynava@anybotics.com">Yoshua Nava</maintainer>
+  <maintainer email="mwulf@anybotics.com">Maximilian Wulf</maintainer>
 
   <license>BSD</license>
 
