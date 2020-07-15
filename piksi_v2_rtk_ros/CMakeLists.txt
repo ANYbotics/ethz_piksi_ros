@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 2.8.3)
+cmake_minimum_required(VERSION 3.5.1)
 project(piksi_v2_rtk_ros)
 
 ## Find catkin macros and libraries
